@@ -1,0 +1,19 @@
+# ninja log v5
+0	196	1698090067	CMakeFiles/Examples.dir/main.cpp.o	1b1bd86e5a26d6c4
+196	258	1698090067	Examples	cc446f2ea956e608
+0	231	1698091539	CMakeFiles/Examples.dir/main.cpp.o	1b1bd86e5a26d6c4
+1	192	1698091559	CMakeFiles/Examples.dir/example_of_conversion.cpp.o	976da4553c9ef7de
+192	254	1698091559	Examples	27b15f4d79a4f336
+0	194	1698091728	CMakeFiles/Examples.dir/main.cpp.o	1b1bd86e5a26d6c4
+1	197	1698091728	CMakeFiles/Examples.dir/example_of_conversion.cpp.o	976da4553c9ef7de
+197	257	1698091728	Examples	27b15f4d79a4f336
+1	196	1698091762	CMakeFiles/Examples.dir/main.cpp.o	1b1bd86e5a26d6c4
+0	215	1698091870	CMakeFiles/Examples.dir/example_of_conversion.cpp.o	976da4553c9ef7de
+215	281	1698091870	Examples	27b15f4d79a4f336
+1	197	1698092063	CMakeFiles/Examples.dir/main.cpp.o	1b1bd86e5a26d6c4
+1	196	1698092118	CMakeFiles/Examples.dir/main.cpp.o	1b1bd86e5a26d6c4
+1	196	1698092185	CMakeFiles/Examples.dir/example_of_conversion.cpp.o	976da4553c9ef7de
+196	259	1698092185	Examples	27b15f4d79a4f336
+0	194	1698092263	CMakeFiles/Examples.dir/main.cpp.o	1b1bd86e5a26d6c4
+1	196	1698092263	CMakeFiles/Examples.dir/example_of_conversion.cpp.o	976da4553c9ef7de
+196	257	1698092263	Examples	27b15f4d79a4f336

@@ -1,0 +1,3 @@
+/home/kadir/Training/build-Examples-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/kadir/Training/build-Examples-Desktop-Default/CMakeFiles/Examples.dir
+/home/kadir/Training/build-Examples-Desktop-Default/CMakeFiles/edit_cache.dir
